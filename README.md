@@ -1,7 +1,9 @@
 # Wantyapps
 ## Hello!
 Hello! My name is Uri Arev (aka. Wantyapps) and I am a software engineer.
+
 I have created many projects (mostly unfinished 🙃) and I am working hard to create and publish more of them.
+
 I try to make my projects high-quality and developer/user-friendly.
 
 ## Projects
